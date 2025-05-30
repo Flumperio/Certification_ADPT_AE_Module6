@@ -4,6 +4,7 @@
   "description": "Certification_ADPT_AE_Module6",
   "main": "Main.xaml",
   "dependencies": {
+    "UiPath.Excel.Activities": "[3.0.1]",
     "UiPath.System.Activities": "[25.4.3]"
   },
   "webServices": [],
@@ -46,7 +47,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "c3e17223-cf19-4166-afa4-7694320ba5b3",
+      "uniqueId": "5b9fcc19-ca76-46a9-aa0f-17aa735bf196",
       "input": [],
       "output": []
     }
